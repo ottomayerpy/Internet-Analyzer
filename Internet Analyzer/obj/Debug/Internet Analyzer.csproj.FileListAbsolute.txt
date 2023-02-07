@@ -1,0 +1,30 @@
+C:\Users\UserPC\source\repos\Internet Analyzer\Internet Analyzer\obj\Debug\Internet Analyzer.csprojAssemblyReference.cache
+C:\Users\UserPC\source\repos\Internet Analyzer\Internet Analyzer\obj\Debug\Internet_Analyzer.Form1_Main.resources
+C:\Users\UserPC\source\repos\Internet Analyzer\Internet Analyzer\obj\Debug\Internet_Analyzer.Form2_Settings.resources
+C:\Users\UserPC\source\repos\Internet Analyzer\Internet Analyzer\obj\Debug\Internet_Analyzer.Properties.Resources.resources
+C:\Users\UserPC\source\repos\Internet Analyzer\Internet Analyzer\obj\Debug\Internet Analyzer.csproj.GenerateResource.cache
+C:\Users\UserPC\source\repos\Internet Analyzer\Internet Analyzer\obj\Debug\Internet Analyzer.csproj.CoreCompileInputs.cache
+C:\Users\UserPC\source\repos\Internet Analyzer\Internet Analyzer\bin\Debug\Internet Analyzer.exe.config
+C:\Users\UserPC\source\repos\Internet Analyzer\Internet Analyzer\bin\Debug\Internet Analyzer.exe
+C:\Users\UserPC\source\repos\Internet Analyzer\Internet Analyzer\bin\Debug\Internet Analyzer.pdb
+C:\Users\UserPC\source\repos\Internet Analyzer\Internet Analyzer\obj\Debug\Internet Analyzer.exe
+C:\Users\UserPC\source\repos\Internet Analyzer\Internet Analyzer\obj\Debug\Internet Analyzer.pdb
+C:\Other\С#\Проекты\Internet Analyzer\Internet Analyzer\bin\Debug\Internet Analyzer.exe.config
+C:\Other\С#\Проекты\Internet Analyzer\Internet Analyzer\bin\Debug\Internet Analyzer.exe
+C:\Other\С#\Проекты\Internet Analyzer\Internet Analyzer\bin\Debug\Internet Analyzer.pdb
+C:\Other\С#\Проекты\Internet Analyzer\Internet Analyzer\obj\Debug\Internet Analyzer.csprojAssemblyReference.cache
+C:\Other\С#\Проекты\Internet Analyzer\Internet Analyzer\obj\Debug\Internet_Analyzer.Form1_Main.resources
+C:\Other\С#\Проекты\Internet Analyzer\Internet Analyzer\obj\Debug\Internet_Analyzer.Properties.Resources.resources
+C:\Other\С#\Проекты\Internet Analyzer\Internet Analyzer\obj\Debug\Internet Analyzer.csproj.GenerateResource.cache
+C:\Other\С#\Проекты\Internet Analyzer\Internet Analyzer\obj\Debug\Internet Analyzer.csproj.CoreCompileInputs.cache
+C:\Other\С#\Проекты\Internet Analyzer\Internet Analyzer\obj\Debug\Internet Analyzer.exe
+C:\Other\С#\Проекты\Internet Analyzer\Internet Analyzer\obj\Debug\Internet Analyzer.pdb
+E:\Folder\C#\Проекты\Internet Analyzer\Internet Analyzer\obj\Debug\Internet Analyzer.csprojAssemblyReference.cache
+E:\Folder\C#\Проекты\Internet Analyzer\Internet Analyzer\obj\Debug\Internet_Analyzer.Form1_Main.resources
+E:\Folder\C#\Проекты\Internet Analyzer\Internet Analyzer\obj\Debug\Internet Analyzer.csproj.GenerateResource.cache
+E:\Folder\C#\Проекты\Internet Analyzer\Internet Analyzer\obj\Debug\Internet Analyzer.exe
+E:\Folder\C#\Проекты\Internet Analyzer\Internet Analyzer\obj\Debug\Internet Analyzer.pdb
+E:\Folder\C#\Проекты\Internet Analyzer\Internet Analyzer\bin\Debug\Internet Analyzer.exe.config
+E:\Folder\C#\Проекты\Internet Analyzer\Internet Analyzer\bin\Debug\Internet Analyzer.exe
+E:\Folder\C#\Проекты\Internet Analyzer\Internet Analyzer\bin\Debug\Internet Analyzer.pdb
+E:\Folder\C#\Проекты\Internet Analyzer\Internet Analyzer\obj\Debug\Internet Analyzer.csproj.CoreCompileInputs.cache
